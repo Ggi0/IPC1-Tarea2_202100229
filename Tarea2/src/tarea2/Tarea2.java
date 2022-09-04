@@ -5,8 +5,10 @@
 package tarea2;
 
 /**
- *
- * @author Administrador
+ * Introducción a la pragramación 1
+ * seccion: F
+ *carnet: 202100229
+ * @author Giovanni Saul Concohá Cax
  */
 public class Tarea2 {
 
@@ -15,6 +17,8 @@ public class Tarea2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        VentanaPrincipal llamar = new VentanaPrincipal();
+        llamar.setVisible(true);
     }
     
 }
